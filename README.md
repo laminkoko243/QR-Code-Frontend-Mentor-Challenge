@@ -1,1 +1,1 @@
-# QR-Code-Frontend-Mentor-Challenge
+# QR-code-Frontend-Mentor-Challenge
